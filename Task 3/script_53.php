@@ -1,7 +1,7 @@
 <?php
 // Script 53 Removes duplicate values of an associative array using the array_unique() function.
-$array1= array("N"=>"Rahul",
-                "A"=>23,
+$array1= array("N"=>"Mahesh",
+                "A"=>21,
                 "c"=>"MCA",
                 "d"=>"MCA");
 //Before array_unique() function
