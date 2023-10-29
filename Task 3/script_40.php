@@ -1,8 +1,8 @@
 <?php
 //script 40 to remove and replace elements array using array_splice().
  
-$Name=array("Rahul","John","Vidhay","Yuvraj");
-$name2=array("Smith","Michael",);
+$Name=array("Mahesh","Mitra","Raj","Om");
+$name2=array("Smith","Pintu",);
  
 print_r($Name);
 echo "<br/>";
